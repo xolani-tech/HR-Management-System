@@ -1,11 +1,11 @@
-💼✨ HR Management System (Modern Tech)
+## 💼✨ HR Management System (Modern Tech)
 
 
 
 A fully functional, modern HR system website built by Sbahle, Xolani, and Cwayita for the Module One Project assignment.
 This application offers an intuitive, user-friendly platform to streamline employee management for modern workplaces. With features such as dynamic employee catalogs, leave request approvals, and absence tracking, it empowers organizations to manage their teams efficiently while providing a seamless experience for both administrators and staff.
 
-🌐🖥️ Live Demo
+## 🌐🖥️ Live Demo
 🔗 [View Live Site](https://moderntechhrsystem.vercel.app)
 
 🚀 Technologies Used
@@ -15,7 +15,7 @@ This application offers an intuitive, user-friendly platform to streamline emplo
 
 🎨 Styling: Bootstrap 5, Custom CSS
 
-💡 Key Featuresq
+## 💡 Key Features
     Login: (Email: Kudos@gmail.com Password: Fish123) 
 👥 Employee Catalog: Dynamic display of employees with departments, including powerful search functionality.
 
@@ -36,7 +36,7 @@ This application offers an intuitive, user-friendly platform to streamline emplo
 
 🚚 Develop real-time attendance and leave tracking dashboard.
 
-👨‍💻 Authors
+## 👨‍💻 Authors
 💡 Sbahle
 
 💡 Xolani
